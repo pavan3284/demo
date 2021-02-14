@@ -8,7 +8,7 @@
   "profile": {
     "name": "demo user"
   },
-  "Permissions": [
+  "permissions": [
     {"id":1, "permission": "Add Retailer"},
     {"id":2, "permission": "Fund Postpaid Retailer Credit Line"},
     {"id":3, "permission": "Manage Retailer"}
