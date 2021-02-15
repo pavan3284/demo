@@ -10,6 +10,6 @@
   "users":[
     {"id":1,"role":"Retailer"},
     {"id":2,"role":"Customer"},
-    {"id":1,"role":"Admin"}
+    {"id":1,"role":"Admin"} 
   ]
 }
