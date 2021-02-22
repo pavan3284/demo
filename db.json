@@ -1,4 +1,12 @@
-{ 
+{
+  "uiconfig": [
+    {
+      "businesstype": "Gas station"
+    },
+    {
+      "businesstype": "Store"
+    }
+  ],
   "salesReps": [
     {
       "id": 1000,
