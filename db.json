@@ -1,30 +1,70 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "uiconfig": [
-				{ "businesstype": "Gas station" },
-				{ "businesstype": "Store" }
-			],
-  "salesReps":[
-				{ "id": 1000, "name":"John King"},
-				{ "id": 2000, "name":"Mary "}
-		],
-  "pricelists": [
-				{ "pricelist": "Comm1" },
-				{ "pricelist": "Comm2" }
-			],
-	 "permissions": [
-    {"id":1, "permission": "Add Retailer"},
-    {"id":2, "permission": "Fund Postpaid Retailer Credit Line"},
-    {"id":3, "permission": "Manage Retailer"}
+    {
+      "businesstype": "Gas station"
+    },
+    {
+      "businesstype": "Store"
+    }
   ],
-  "users":[
-    {"id":1,"role":"Retailer"},
-    {"id":2,"role":"Customer"},
-    {"id":1,"role":"Admin"} 
+  "salesReps": [
+    {
+      "id": 1000,
+      "name": "John King"
+    },
+    {
+      "id": 2000,
+      "name": "Mary "
+    }
+  ],
+  "pricelists": [
+    {
+      "pricelist": "Comm1"
+    },
+    {
+      "pricelist": "Comm2"
+    }
+  ],
+  "permissions": [
+    {
+      "id": 1,
+      "permission": "Add Retailer"
+    },
+    {
+      "id": 2,
+      "permission": "Fund Postpaid Retailer Credit Line"
+    },
+    {
+      "id": 3,
+      "permission": "Manage Retailer"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "role": "Retailer"
+    },
+    {
+      "id": 2,
+      "role": "Customer"
+    },
+    {
+      "id": 1,
+      "role": "Admin"
+    }
   ]
 }
