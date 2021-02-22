@@ -16,5 +16,15 @@
   "pricelists": [
 				{ "pricelist": "Comm1" },
 				{ "pricelist": "Comm2" }
-			] 
+			],
+	 "permissions": [
+    {"id":1, "permission": "Add Retailer"},
+    {"id":2, "permission": "Fund Postpaid Retailer Credit Line"},
+    {"id":3, "permission": "Manage Retailer"}
+  ],
+  "users":[
+    {"id":1,"role":"Retailer"},
+    {"id":2,"role":"Customer"},
+    {"id":1,"role":"Admin"} 
+  ]
 }
