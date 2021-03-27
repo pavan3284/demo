@@ -1,5 +1,4 @@
 {
-
   "permissions": [
     {
       "id": 1,
@@ -10,10 +9,183 @@
       "permission": "Fund Postpaid Retailer Credit Line"
     },
     {
-      "id": 3,
+      "id": 4,
+      "permission": "Setup auto reload for Postpaid Retailer"
+    },
+    {
+      "id": 5,
       "permission": "Manage Retailer"
+    },
+    {
+      "id": 6,
+      "permission": "Edit Billing Schedule"
+    },
+    {
+      "id": 7,
+      "permission": "Edit Payment Method (ACH, CC, D D)"
+    },
+    {
+      "id": 8,
+      "permission": "Upload Deposit & ACH Document"
+    },
+    {
+      "id": 9,
+      "permission": "Edit Phone Number for OTP"
+    },
+    {
+      "id": 10,
+      "permission": "Activate/Inactivate Retailer (Change Status)"
+    },
+    {
+      "id": 11,
+      "permission": "Unblock accounts that were blocked due to wrong sign in"
+    },
+    {
+      "id": 12,
+      "permission": "Close Account (Generate Invoice/check all payments are done)"
+    },
+    {
+      "id": 13,
+      "permission": "Set Transaction Limits"
+    },
+    {
+      "id": 14,
+      "permission": "Assign Sales Rep/Distributor"
+    },
+    {
+      "id": 15,
+      "permission": "Payment History (per retailer)"
+    },
+    {
+      "id": 16,
+      "permission": "Registering IP Addresses & IVR"
+    },
+    {
+      "id": 17,
+      "permission": "Approve Deposit Payments"
+    },
+    {
+      "id": 18,
+      "permission": "Message (Send/ Receive)"
+    },
+    {
+      "id": 19,
+      "permission": "Create Promo Code"
+    },
+    {
+      "id": 20,
+      "permission": "Add Loyalty Points"
+    },
+    {
+      "id": 21,
+      "permission": "Profile"
+    },
+    {
+      "id": 22,
+      "permission": "Commission Report"
+    },
+    {
+      "id": 23,
+      "permission": "Creating New Invoice"
+    },
+    {
+      "id": 24,
+      "permission": "Invoice Report"
+    },
+    {
+      "id": 25,
+      "permission": "Invoice Report (View Only)"
+    },
+    {
+      "id": 26,
+      "permission": "Payment Report"
+    },
+    {
+      "id": 27,
+      "permission": "Real Time Transactions"
+    },
+    {
+      "id": 28,
+      "permission": "Retailer Acquisition Report"
+    },
+    {
+      "id": 29,
+      "permission": "Refund Report"
+    },
+    {
+      "id": 30,
+      "permission": "Loyalty Report"
+    },
+    {
+      "id": 31,
+      "permission": "Sales Summary Report"
+    },
+    {
+      "id": 32,
+      "permission": "Interactive Graphs"
+    },
+    {
+      "id": 33,
+      "permission": "Interactive Graphs for their accounts only"
+    },
+    {
+      "id": 34,
+      "permission": "Manage Users"
+    },
+    {
+      "id": 35,
+      "permission": "View Logs"
+    },
+    {
+      "id": 36,
+      "permission": "Products"
+    },
+    {
+      "id": 37,
+      "permission": "Providers"
+    },
+    {
+      "id": 38,
+      "permission": "Access to the Retailer Portal w/out OTP"
+    },
+    {
+      "id": 39,
+      "permission": "Access to the Retailer Portal with OTP"
+    },
+    {
+      "id": 40,
+      "permission": "Promotions (View Only)"
+    },
+    {
+      "id": 41,
+      "permission": "Promotions (Sent text, generate promo codes (Festivals)"
+    },
+    {
+      "id": 42,
+      "permission": "Credit Line Report (Postpaid) - View Only"
+    },
+    {
+      "id": 43,
+      "permission": "Credit Line Report (Postpaid)"
+    },
+    {
+      "id": 44,
+      "permission": "Credit Balance Report (Prepaid) - View Only"
+    },
+    {
+      "id": 45,
+      "permission": "Credit Balance Report (Prepaid)"
+    },
+    {
+      "id": 46,
+      "permission": "Wallet (Assign funds to distributors)"
+    },
+    {
+      "id": 47,
+      "permission": "Wallet (Assign fund to Retailer)"
     }
   ],
+
   "users": [
     {
       "id": 1,
@@ -21,7 +193,7 @@
     },
     {
       "id": 2,
-      "role": "Customer"
+      "role": "Salesrep"
     },
     {
       "id": 1,
