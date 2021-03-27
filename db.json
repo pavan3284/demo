@@ -116,74 +116,7 @@
       "id": 30,
       "permission": "Loyalty Report"
     },
-    {
-      "id": 31,
-      "permission": "Sales Summary Report"
-    },
-    {
-      "id": 32,
-      "permission": "Interactive Graphs"
-    },
-    {
-      "id": 33,
-      "permission": "Interactive Graphs for their accounts only"
-    },
-    {
-      "id": 34,
-      "permission": "Manage Users"
-    },
-    {
-      "id": 35,
-      "permission": "View Logs"
-    },
-    {
-      "id": 36,
-      "permission": "Products"
-    },
-    {
-      "id": 37,
-      "permission": "Providers"
-    },
-    {
-      "id": 38,
-      "permission": "Access to the Retailer Portal w/out OTP"
-    },
-    {
-      "id": 39,
-      "permission": "Access to the Retailer Portal with OTP"
-    },
-    {
-      "id": 40,
-      "permission": "Promotions (View Only)"
-    },
-    {
-      "id": 41,
-      "permission": "Promotions (Sent text, generate promo codes (Festivals)"
-    },
-    {
-      "id": 42,
-      "permission": "Credit Line Report (Postpaid) - View Only"
-    },
-    {
-      "id": 43,
-      "permission": "Credit Line Report (Postpaid)"
-    },
-    {
-      "id": 44,
-      "permission": "Credit Balance Report (Prepaid) - View Only"
-    },
-    {
-      "id": 45,
-      "permission": "Credit Balance Report (Prepaid)"
-    },
-    {
-      "id": 46,
-      "permission": "Wallet (Assign funds to distributors)"
-    },
-    {
-      "id": 47,
-      "permission": "Wallet (Assign fund to Retailer)"
-    }
+    
   ],
 
   "users": [
