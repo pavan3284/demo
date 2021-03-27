@@ -11,32 +11,7 @@
     {
       "id": 4,
       "permission": "Setup auto reload for Postpaid Retailer"
-    },
-    {
-      "id": 5,
-      "permission": "Manage Retailer"
-    },
-    {
-      "id": 6,
-      "permission": "Edit Billing Schedule"
-    },
-    {
-      "id": 7,
-      "permission": "Edit Payment Method (ACH, CC, D D)"
-    },
-    {
-      "id": 8,
-      "permission": "Upload Deposit & ACH Document"
-    },
-    {
-      "id": 9,
-      "permission": "Edit Phone Number for OTP"
-    },
-    {
-      "id": 10,
-      "permission": "Activate/Inactivate Retailer (Change Status)"
-    },
-   
+    }
   ],
 
   "users": [
